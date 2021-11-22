@@ -11,7 +11,7 @@ To run the lp Tensor Train Completion algorithm
 
 Terms of use:
 
-The code is provided for research purpose only without any warranty. Any commercial use if prohibited
+The code is provided for research purpose only without any warranty. Any commercial use is prohibited
 
 When using the code, please cite the following paper:
 
