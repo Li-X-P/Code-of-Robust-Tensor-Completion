@@ -11,7 +11,7 @@ The code is provided for research purpose only without any warranty. Any commerc
 
 When using the whole or part of this code, please cite the following paper:
 
-X.P. Li, Z-Y Wang, Z-L Shi, H C So and N. D. Sidiropoulos "Robust tensor completion via capped Frobenius norm", IEEE Transactions on Neural Network and Learning Systems, 2023.
+X.P. Li, Z-Y Wang, Z-L Shi, H C So and N. D. Sidiropoulos, "Robust tensor completion via capped Frobenius norm", IEEE Transactions on Neural Network and Learning Systems, 2023.
 
 
 
